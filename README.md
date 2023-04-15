@@ -1,2 +1,19 @@
-# LBD-2023
-As atividades de LBD realizadas utilizando MySQL
+# LBD2023
+#### Atividades de Laboratório de Banco de Dados
+
+Nesse repositório estão todas (ou quase todas) as minhas atividades de LBD durante meu ano letivo de 2023
+
+Esse repositório é publico e eu não me responsabilizo por qualquer atividade retirada daqui por nenhum aluno de turmas futuras do curso de Informatica
+
+```
+/*
+ * -------------------------------------------------------------------------------------------
+ * "LICENÇA DO SUCO" - Por João Vitor Lima "Limão"
+ * -------------------------------------------------------------------------------------------
+ * Se você está lendo isso, é porque algo aqui pode te ajudar com alguma coisa.
+ * Caso alguma coisa encontrada aqui te ajude pode fazer o que quiser com isso, mas eu não me 
+ * responsabilizo se sua atividade for zerada. Contudo, se você usou somente para estudar 
+ * e conseguiu entender o que eu quis fazer, você poderá me pagar um suco como agradecimento.
+ * -------------------------------------------------------------------------------------------
+ */
+```
