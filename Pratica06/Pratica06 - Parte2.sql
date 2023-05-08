@@ -88,3 +88,15 @@ WHERE
   Filhos BETWEEN 3 AND 6
 ORDER BY
   Filhos ASC;
+  
+-- Consultando os funcionarios com Salario maior que 5000 ou Idade maior que 45
+SELECT
+	Nome
+FROM 
+	Funcionario
+WHERE
+	Salario > 5000 or Idade > 45;
+  
+-- Apagando a tabela e depois o DB
+DROP TABLE Funcionario;
+DROP DATABASE Empresa;
