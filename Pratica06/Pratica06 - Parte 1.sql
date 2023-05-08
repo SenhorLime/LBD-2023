@@ -98,3 +98,17 @@ VALUES
         '4495.20',
         '0'
     );
+    
+-- Alterando o numero de filhos do ultimo registro para 10
+UPDATE
+	Funcionario
+SET
+	Filhos = 10
+WHERE 
+	Matricula = 004;
+
+-- Consultando todos os funcionarios
+SELECT 
+    *
+FROM
+    Funcionario;
